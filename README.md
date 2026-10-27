@@ -41,6 +41,13 @@ Each customer is scored 1 to 4 on Recency, Frequency and Monetary value using qu
 - **Lapsed:** R equals 1, F 2 or lower
 - **Regular Customers:** everyone else
 
+## What I'd recommend
+
+1. **Protect the High-Value Loyalists.** 1,317 customers (30.4%) bring in 73.0% of sales, so losing even a few of them costs more than losing any other group.
+2. **Reach out to At-Risk High Value customers first.** These 449 customers averaged 4.68 orders and $2,128.69 in spend, and their last purchase was about 106 days ago on average. They're the highest-value group that's slipping.
+3. **Get one-time customers to a second purchase.** 1,493 customers (34.4%) bought only once. A follow-up soon after the first order is the cheapest place to start.
+4. **Lean on what repeat customers keep buying.** The Regency cakestand (741 repeat customers) and the white hanging heart tea light holder (698) lead the list, so they're strong products to feature.
+
 ## Data and cleaning
 
 Data: Online Retail dataset (UCI / Kaggle), transactions from 2010-12-01 to 2011-12-09. The analysis date is one day after the last transaction.
