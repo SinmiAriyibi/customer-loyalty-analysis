@@ -3,7 +3,7 @@
 Which customers does this retailer depend on, and who is starting to slip away? I used RFM segmentation on 4,338 customers to find out.
 
 - **Portfolio page:** https://sinmiariyibi.my.canva.site
-- **Interactive dashboard:** [add your Tableau Public link]
+- **Interactive dashboard:** https://public.tableau.com/views/Book1_17906862710360/Dashboard1 
 
 ## Questions
 
